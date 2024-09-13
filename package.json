@@ -9,5 +9,8 @@
   },
   "author": "ritik raghav",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
 }
